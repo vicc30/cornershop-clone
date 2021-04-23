@@ -58,6 +58,12 @@
   margin-top: 1rem;
 }
 
+.container {
+    display: flex;
+    /*flex-direction: column;*/
+    justify-content: center;
+}
+
 .login p,
 .login a {
   font-size: 1.1em;
@@ -71,3 +77,4 @@
   color: #888b90;
   font-weight: 600;
 }
+
