@@ -78,3 +78,30 @@
   font-weight: 600;
 }
 
+.contenedor {
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+.contenedor h1 {
+    font-size: 45px;
+    color: rgb(80, 80, 80);
+}
+
+.contenedor p {
+    font-size: 30px;
+    font: bold;
+    color: rgb(80, 80, 80);
+}
+
+.contenedor a {
+    text-decoration: none;
+}
+
+
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
