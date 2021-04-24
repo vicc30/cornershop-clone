@@ -2,8 +2,8 @@
 * Styles for team 
 */
 
-*{
-    margin: 0;
-    padding: 0;
-    border: 0;
+    
+    .menu.text-menu-selected{
+        color:#46a2fd;
 }
+    
