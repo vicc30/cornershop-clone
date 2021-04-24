@@ -98,10 +98,8 @@
 .contenedor a {
     text-decoration: none;
 }
-
-
-*{
-    margin: 0;
-    padding: 0;
-    border: 0;
+    
+    .menu {
+        color:#46a2fd;
 }
+    
